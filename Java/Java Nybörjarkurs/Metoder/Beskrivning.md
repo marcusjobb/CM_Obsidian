@@ -1,3 +1,3 @@
-# Metoder
+# Beskrivning
 Vad är metoder?
 

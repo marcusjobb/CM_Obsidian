@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/Java Nybörjarkurs/Metoder/Metoder.md",
+            "file": "Metoder/Beskrivning.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "metoder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Nybörjarkurs/Metoder/Metoder.md",
+                "file": "Java/Java Nybörjarkurs/Kursplanering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java Nybörjarkurs/Metoder/Metoder.md",
+                "file": "Java/Java Nybörjarkurs/Kursplanering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Nybörjarkurs/Metoder/Metoder.md"
+                "file": "Java/Java Nybörjarkurs/Kursplanering.md"
               }
             }
           },
@@ -174,15 +174,15 @@
   },
   "active": "bc3ccb24b264187a",
   "lastOpenFiles": [
+    "Metoder/Beskrivning.md",
     "Java/Java Nybörjarkurs/Kursplanering.md",
-    "Java/Java Nybörjarkurs/Metoder/Metoder.md",
+    "Java/Java Nybörjarkurs/Beskrivning/Beskrivning.md",
     "C#/C# Nybörjarkurs/C Nybörjarkurs.md",
     "Templates/Daily Notes/Template-Day.md",
     "Day Planners/2022-07-21.md",
     "2022-07.md",
     "Templates/Daily Notes/Template-Week.md",
     "Templates/Daily Notes/Template-Month.md",
-    "Day Planners/2022-07.md",
-    "Day Planners/Day Planner-20220721.md"
+    "Day Planners/2022-07.md"
   ]
 }

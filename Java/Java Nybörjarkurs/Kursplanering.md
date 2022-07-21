@@ -1,7 +1,7 @@
 # Kursplanering
 
 ## Avsnitt
-- [Metoder](Metoder.md)
+- [Metoder](Metoder/Beskrivning.md)
 - 
 
 ## Övningar
