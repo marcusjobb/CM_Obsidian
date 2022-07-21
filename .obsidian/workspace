@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "b0dd907bd49ba834",
+    "type": "split",
+    "children": [
+      {
+        "id": "698cc6bed556d5ed",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C#/C# Nybörjarkurs/C Nybörjarkurs.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4d039ba1df0af2ff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Java/Java Nybörjarkurs/Kursplanering.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a2ffd8844d5f5c36",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Java/Java Nybörjarkurs/Metoder/Metoder.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa650dac70e2a115",
+    "type": "split",
+    "children": [
+      {
+        "id": "2aae3fa1ce30cdf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc3ccb24b264187a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "591278dd01a02a4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b991789b25cbb33",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "babf4a305241bf37",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9deaee048bc1874",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d20dd8a6b3ddaf0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/Java Nybörjarkurs/Metoder/Metoder.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a76862c7d289134",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/Java Nybörjarkurs/Metoder/Metoder.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b7851e9329908ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f8946f976886a27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/Java Nybörjarkurs/Metoder/Metoder.md"
+              }
+            }
+          },
+          {
+            "id": "453f60282929ffe7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca350099dc3053b1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bc3ccb24b264187a",
+  "lastOpenFiles": [
+    "Java/Java Nybörjarkurs/Kursplanering.md",
+    "Java/Java Nybörjarkurs/Metoder/Metoder.md",
+    "C#/C# Nybörjarkurs/C Nybörjarkurs.md",
+    "Templates/Daily Notes/Template-Day.md",
+    "Day Planners/2022-07-21.md",
+    "2022-07.md",
+    "Templates/Daily Notes/Template-Week.md",
+    "Templates/Daily Notes/Template-Month.md",
+    "Day Planners/2022-07.md",
+    "Day Planners/Day Planner-20220721.md"
+  ]
+}

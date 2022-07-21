@@ -1,0 +1,17 @@
+{
+  "promptDelete": false,
+  "showLineNumber": false,
+  "spellcheckLanguages": [
+    "en-GB",
+    "sv"
+  ],
+  "spellcheck": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./data",
+  "showFrontmatter": true,
+  "fileSortOrder": "alphabetical"
+}

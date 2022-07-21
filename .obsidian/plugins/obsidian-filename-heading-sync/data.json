@@ -1,0 +1,9 @@
+{
+  "userIllegalSymbols": [],
+  "ignoredFiles": {
+    "Day Planners/Template.md": null
+  },
+  "ignoreRegex": "",
+  "useFileOpenHook": true,
+  "useFileSaveHook": true
+}
