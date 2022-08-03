@@ -1,6 +1,16 @@
 # Behörighetsgivande utbildning Programmering i C\#
 
-Välkommen till vår Behörighetsgivande utbildning (BGU) i Programmering!  
+** Innehållsförteckning **
+
+- [[#Beskrivning|Beskrivning]]
+	- [[#Beskrivning#Undervisning på engelska|Undervisning på engelska]]
+	- [[#Beskrivning#Hur genomför jag utbildningen?|Hur genomför jag utbildningen?]]
+	- [[#Beskrivning#Kursplan|Kursplan]]
+	- [[#Beskrivning#Studybee|Studybee]]
+	- [[#Beskrivning#Prov i slutet av utbildningen|Prov i slutet av utbildningen]]
+- [[#Examination|Examination]]
+
+## Välkommen till vår Behörighetsgivande utbildning (BGU) i Programmering!  
 
 Vi på Yrkeshögskolan Campus Mölndal ser fram emot att starta upp våra YH-utbildningar Cloudutvecklare & Integrationsutvecklare: Java 29 augusti 2022 och vill med vår BGU ge dig möjlighet att bli fullt behörig.
 
@@ -49,7 +59,7 @@ Utbildningen avslutas med ett behörighetsgivande prov online. Provet är själv
 ## Planering
 | Lektion | Ämne | Övningar |
 | ------- | ----:| --------:|
-| 1       | Intro     |          |
+| 1       | [Intro till .net](lektion/intro/readme.md), [variabler](lektion/variabler/readme.md)     | [variabler](lektion/variabler/kodning/readme.md)         |
 | 2       |      |          |
 | 3       |      |          |
 | 4       |      |          |
