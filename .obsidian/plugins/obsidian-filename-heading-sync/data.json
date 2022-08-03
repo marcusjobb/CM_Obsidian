@@ -3,7 +3,7 @@
   "ignoredFiles": {
     "Day Planners/Template.md": null
   },
-  "ignoreRegex": "",
+  "ignoreRegex": "(readme)",
   "useFileOpenHook": true,
   "useFileSaveHook": true
 }

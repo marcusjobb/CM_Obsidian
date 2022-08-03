@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/C# Nybörjarkurs/C Nybörjarkurs.md",
+            "file": "C#/C# Nybörjarkurs/readme.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/Java Nybörjarkurs/Kursplanering.md",
+            "file": "C#/C# Nybörjarkurs/readme.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Nybörjarkurs/Kursplanering.md",
+                "file": "C#/C# Nybörjarkurs/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java Nybörjarkurs/Kursplanering.md",
+                "file": "C#/C# Nybörjarkurs/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Nybörjarkurs/Kursplanering.md"
+                "file": "C#/C# Nybörjarkurs/readme.md"
               }
             }
           },
@@ -169,20 +169,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "bc3ccb24b264187a",
+  "active": "4d039ba1df0af2ff",
   "lastOpenFiles": [
+    "Java/Java Nybörjarkurs/Readme.md",
+    "Java/Java Nybörjarkurs/Metoder/Beskrivning.md",
+    "Java/Java Nybörjarkurs/Metoder/Övningar.md",
     "Metoder/Beskrivning.md",
-    "Java/Java Nybörjarkurs/Kursplanering.md",
     "Java/Java Nybörjarkurs/Beskrivning/Beskrivning.md",
-    "C#/C# Nybörjarkurs/C Nybörjarkurs.md",
+    "C#/C# Nybörjarkurs/readme.md",
     "Templates/Daily Notes/Template-Day.md",
     "Day Planners/2022-07-21.md",
     "2022-07.md",
-    "Templates/Daily Notes/Template-Week.md",
-    "Templates/Daily Notes/Template-Month.md",
-    "Day Planners/2022-07.md"
+    "Templates/Daily Notes/Template-Week.md"
   ]
 }
