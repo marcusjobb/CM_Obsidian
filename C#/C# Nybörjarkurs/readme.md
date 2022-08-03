@@ -13,3 +13,11 @@ Undervisningen bedrivs endast på svenska, men kursmaterial kan förekomma på e
 
 ## Examination
 Utbildningen avslutas med ett behörighetsgivande prov online. Provet är självrättande.
+
+## Planering
+| # Lektion | Datum  | veckodag | Ämne | Övningar |
+| ------- |:------:| --------:| ----:| ----:|
+| 1        | 12 aug |   fredag |      | |
+| 2        |        |          |      | |
+| 3        |        |          |      | |
+| 4        |        |          |      | |
