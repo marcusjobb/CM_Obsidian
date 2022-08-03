@@ -14,10 +14,17 @@ Undervisningen bedrivs endast på svenska, men kursmaterial kan förekomma på e
 ## Examination
 Utbildningen avslutas med ett behörighetsgivande prov online. Provet är självrättande.
 
+# Inför kursen
++ [Installera Visual Studio Community](Installation%20av%20Visual%20Studio.md)
+
 ## Planering
-| # Lektion | Datum  | veckodag | Ämne | Övningar |
-| ------- |:------:| --------:| ----:| ----:|
-| 1        | 12 aug |   fredag |      | |
-| 2        |        |          |      | |
-| 3        |        |          |      | |
-| 4        |        |          |      | |
+| Lektion | Ämne | Övningar |
+| ------- | ----:| --------:|
+| 1       | Intro     |          |
+| 2       |      |          |
+| 3       |      |          |
+| 4       |      |          |
+| 5       |      |          |
+| 6       |      |          |
+| 7       |      |          |
+|         |      |          |
