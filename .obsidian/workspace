@@ -43,7 +43,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/C# Nybörjarkurs/Installation av Visual Studio.md",
+            "file": "C#/C# Nybörjarkurs/readme.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/C# Nybörjarkurs/Installation av Visual Studio.md",
+                "file": "C#/C# Nybörjarkurs/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/C# Nybörjarkurs/Installation av Visual Studio.md",
+                "file": "C#/C# Nybörjarkurs/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/C# Nybörjarkurs/Installation av Visual Studio.md"
+                "file": "C#/C# Nybörjarkurs/readme.md"
               }
             }
           }
@@ -178,11 +178,11 @@
   },
   "active": "82ab1bd5d6425750",
   "lastOpenFiles": [
+    "C#/C# Nybörjarkurs/Installation av Visual Studio.md",
+    "C#/C# Nybörjarkurs/readme.md",
     "C#/C# Nybörjarkurs/data/workloads.png",
     "Metoder/readme.md",
     "C#/C# Nybörjarkurs/data/workloads.png.png",
-    "C#/C# Nybörjarkurs/Installation av Visual Studio.md",
-    "C#/C# Nybörjarkurs/readme.md",
     "C.md",
     "Kurser todo/CSharp/CSharp Beginner.md",
     "Java/Java Nybörjarkurs/readme.md",
