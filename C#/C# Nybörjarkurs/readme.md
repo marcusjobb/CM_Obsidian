@@ -2,13 +2,13 @@
 
 ** Innehållsförteckning **
 
-- [[#Beskrivning|Beskrivning]]
-	- [[#Beskrivning#Undervisning på engelska|Undervisning på engelska]]
-	- [[#Beskrivning#Hur genomför jag utbildningen?|Hur genomför jag utbildningen?]]
-	- [[#Beskrivning#Kursplan|Kursplan]]
-	- [[#Beskrivning#Studybee|Studybee]]
-	- [[#Beskrivning#Prov i slutet av utbildningen|Prov i slutet av utbildningen]]
-- [[#Examination|Examination]]
+- [[Beskrivning|Beskrivning]]
+	- [[Beskrivning#Undervisning på engelska|Undervisning på engelska]]
+	- [[Beskrivning#Hur genomför jag utbildningen?|Hur genomför jag utbildningen?]]
+	- [[Beskrivning#Kursplan|Kursplan]]
+	- [[Beskrivning#Studybee|Studybee]]
+	- [[Beskrivning#Prov i slutet av utbildningen|Prov i slutet av utbildningen]]
+- [[Examination|Examination]]
 
 ## Välkommen till vår Behörighetsgivande utbildning (BGU) i Programmering!  
 
