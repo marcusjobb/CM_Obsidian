@@ -33,10 +33,8 @@
         "id": "4c6a9ec355e2d4f8",
         "type": "leaf",
         "state": {
-          "type": "image",
-          "state": {
-            "file": "C#/C# Nybörjarkurs/data/workloads.png.png"
-          }
+          "type": "empty",
+          "state": {}
         }
       },
       {
@@ -180,15 +178,15 @@
   },
   "active": "82ab1bd5d6425750",
   "lastOpenFiles": [
-    "C#/C# Nybörjarkurs/readme.md",
-    "C#/C# Nybörjarkurs/data/workloads.png.png",
-    "C.md",
-    "C#/C# Nybörjarkurs/Installation av Visual Studio.md",
+    "C#/C# Nybörjarkurs/data/workloads.png",
     "Metoder/readme.md",
+    "C#/C# Nybörjarkurs/data/workloads.png.png",
+    "C#/C# Nybörjarkurs/Installation av Visual Studio.md",
+    "C#/C# Nybörjarkurs/readme.md",
+    "C.md",
     "Kurser todo/CSharp/CSharp Beginner.md",
     "Java/Java Nybörjarkurs/readme.md",
     "Java/Java Nybörjarkurs/Variabler - Copy (2)/Beskrivning.md",
-    "Java/Java Nybörjarkurs/Variabler - Copy/readme.md",
-    "Java/Java Nybörjarkurs/Variabler/readme.md"
+    "Java/Java Nybörjarkurs/Variabler - Copy/readme.md"
   ]
 }
