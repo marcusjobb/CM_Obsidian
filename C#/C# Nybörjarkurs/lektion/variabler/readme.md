@@ -7,7 +7,7 @@ Man kan se variabler som behållare av data. Dess innehåll kan förändras men 
 I C# har vi olika typer av data vi kan stoppa in i våra variabler. Här är en lista på de vanligaste.
 
 | Datatyp | Typ                                 | Exempel                     | Kommentar                            |
-| ------- | ----------------------------------- | --------------------------- | ------------------------------------ |
+| :------- | :----------------------------------- | :--------------------------- | :------------------------------------ |
 | byte    | Små tal                             | 0 - 255                     | Liten men effektiv                   |
 | short   | Lite större än byte                 | -32,768 to 32,767           | Snabb men kort                       |
 | int     | heltal                              | 4, 8, 15, 16, 23, 42        | Snabbaste nummertypen                |
