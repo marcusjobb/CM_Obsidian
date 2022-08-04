@@ -91,3 +91,5 @@ Console.WriteLine($"{name} är {age} år gammal");
 ```
 
 Tack vare variablerna kan du nu lätt ändra det till ditt namn och din födelsedata i deklarationsdelen, resten av programmet kan köra precis som den är.
+
+Viktigt att komma ihåg, då variablerna är något vi kommer att använda igenom hela vårt program, var nog med att ge dem vettiga namn. För det kan vara svårt att gissa sig till vad de används till om de inte har beskrivande namn.
