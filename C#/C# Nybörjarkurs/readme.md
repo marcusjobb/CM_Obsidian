@@ -44,7 +44,7 @@ Utbildningen avslutas med ett behörighetsgivande prov online. Provet är själv
 ## Planering
 | Lektion | Ämne | Övningar |
 | ------- | ----:| --------:|
-| 1       | [Intro till .net](lektion/intro/readme.md), [variabler](lektion/variabler/readme.md)     | [variabler](lektion/variabler/kodning/readme.md)         |
+| 1       | [Intro till .net], [variabler]     | [variabler övningar]         |
 | 2       |      |          |
 | 3       |      |          |
 | 4       |      |          |
@@ -52,3 +52,8 @@ Utbildningen avslutas med ett behörighetsgivande prov online. Provet är själv
 | 6       |      |          |
 | 7       |      |          |
 |         |      |          |
+
+
+[Intro till .net]:             lektion/intro/readme.md
+[variabler]:                   lektion/variabler/readme.md
+[variabler övningar]:    lektion/variabler/kodning/readme.md
