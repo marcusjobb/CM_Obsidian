@@ -36,3 +36,15 @@ yCoordinate = 15;
 
 Som du ser, så behöver vi inte ange typen igen, för variabeln vet redan vad den ska ha för typ, då vi angav det vid instansieringen.
 
+Men för enkelhetens skull så gör vi oftast instansiering och tilldelning i samma rad.
+```cs 
+// Instansierar variabler
+string namn = "Bruce";
+string efternamn ="Wayne";
+```
+
+Orsaken till att vi gör detta är att vi nu kan skriva program som räknar ut positioner baserade på x och y koordinaterna vi angav, och sedan skriva ut
+
+```cs
+Console.WriteLine($"{namn} {efternamn} befinner sig på coordinaterna {xCoordinate},{yCoordinate}")
+```
