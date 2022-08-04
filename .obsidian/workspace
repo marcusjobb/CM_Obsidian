@@ -54,13 +54,8 @@
         "id": "a2ffd8844d5f5c36",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Metoder/readme.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
