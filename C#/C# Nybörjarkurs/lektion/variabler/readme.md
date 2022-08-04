@@ -6,15 +6,15 @@ Man kan se variabler som behållare av data. Dess innehåll kan förändras men 
 
 I C# har vi olika typer av data vi kan stoppa in i våra variabler. Här är en lista på de vanligaste.
 
-| Datatyp | Typ                                 | Exempel                     | Kommentar                            |     |
-| ------- | ----------------------------------- | --------------------------- | ------------------------------------ | --- |
-| byte    | Små tal                             | 0 - 255                     | Liten men effektiv                   |     |
-| short   | Lite större än byte                 | -32,768 to 32,767           | Snabb men kort                       |     |
-| int     | heltal                              | 4, 8, 15, 16, 23, 42        | Snabbaste nummertypen                |     |
-| long    | Stora heltal                        | 9999999999                  | Långsammare än int                   |     |
-| float   | decimaltal (4 bytes)                | 3.1415                      | Snabbare än double                   |     |
-| double  | fler decimaltal (8 bytes)           | 3.1415                      | Dubbelt så stor som float, långsam   |     |
-| decimal | Många decimaltal                    | 3.1415                      | Exakt men långsammast                |     |
-| char    | ett tecken                          | ‘A’, ‘C’,‘D’,‘C’            | Bara ett tecken, får aldrig vara tom |     |
-| string  | text, egentligen en lång rad tecken | “quoth the raven nevermore” | Vanlig text                          |     |
-|         |                                     |                             |                                      |     |
+| Datatyp | Typ                                 | Exempel                     | Kommentar                            |
+| ------- | ----------------------------------- | --------------------------- | ------------------------------------ |
+| byte    | Små tal                             | 0 - 255                     | Liten men effektiv                   |
+| short   | Lite större än byte                 | -32,768 to 32,767           | Snabb men kort                       |
+| int     | heltal                              | 4, 8, 15, 16, 23, 42        | Snabbaste nummertypen                |
+| long    | Stora heltal                        | 9999999999                  | Långsammare än int                   |
+| float   | decimaltal (4 bytes)                | 3.1415                      | Snabbare än double                   |
+| double  | fler decimaltal (8 bytes)           | 3.1415                      | Dubbelt så stor som float, långsam   |
+| decimal | Många decimaltal                    | 3.1415                      | Exakt men långsammast                |
+| char    | ett tecken                          | ‘A’, ‘C’,‘D’,‘C’            | Bara ett tecken, får aldrig vara tom |
+| string  | text, egentligen en lång rad tecken | “quoth the raven nevermore” | Vanlig text                          |
+|         |                                     |                             |                                      |
