@@ -1,8 +1,5 @@
 # Behörighetsgivande utbildning Programmering i C\#
 
-```toc
-```
-
 ## Välkommen till vår Behörighetsgivande utbildning (BGU) i Programmering!  
 
 Vi på Yrkeshögskolan Campus Mölndal ser fram emot att starta upp våra YH-utbildningar Cloudutvecklare & Integrationsutvecklare: Java 29 augusti 2022 och vill med vår BGU ge dig möjlighet att bli fullt behörig.
