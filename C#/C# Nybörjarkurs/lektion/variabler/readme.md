@@ -27,6 +27,24 @@ int xCoordinate;
 int yCoordinate;
 ```
 
+Namnet på variabeln är det som vi kommer att använda för att arbeta med det värde som variabeln har. På samma sätt som vi tilldelar personer eller myndigheter telefonnummer. 
+
+En butik blev rånad, ring polisen! Då vet vi att man menar 112. Fram till 2008 var numret 90000. Vi kan alltså uppdatera vår kod genom att bara ändra i en rad.
+```cs 
+// int polis = 90000; -- Gamla numret, gäller inte längre
+int polis = 112;
+Make_Phonecall(polis);
+```
+
+Jag är hungrig! Beställ en pizza! 
+Pizzerian närmast Campus Mölndal är Pizzeria Mums, alltså ringer vi dit!
+```cs
+int pizzeriaMums = 031400034;
+string favPizza = "Tartufo";
+orderPizza(pizzeriaMums, favPizza);
+```
+
+
 När vi ger våra variabler ett värde kallas det att vi tilldelar den ett värde. Vi använder nu namnet till variabeln för att tilldela den ett värde.
 ```cs 
 // Tilldelar värden till variabler
@@ -48,3 +66,29 @@ Orsaken till att vi gör detta är att vi nu kan skriva program som räknar ut p
 ```cs
 Console.WriteLine($"{namn} {efternamn} befinner sig på coordinaterna {xCoordinate},{yCoordinate}")
 ```
+
+Detta i sin tur betyder att vi kan med enkelhet ändra namn, efternamn, x, y koordinater utan att behöva ändra särskilt mycket i vårt program.
+
+Vi tar ett annat exempel, vi ska räkna ut åldern på en person. För detta ska vi använda oss av en färdig typ som finns i C# kallad DateTime. DateTime håller koll på dagens datum och tid så exakt den kan (baserat på datorns interna klocka).
+
+För att kunna se skillnaden i dagar mellan två datum måste vi skapa ett datumobjekt, men det är tack och lov väldigt enkelt. Koden kan se lite skrämmande ut men den är ganska logisk och lätt att följa.
+```cs 
+// Deklarera variabler
+string name="Finn Wolfhard";
+int year = 2002;
+int month = 12;
+int day = 23;
+
+// Ta reda på dagens datum
+DateTime today = DateTime.Now;
+
+// Skapa ett datumobjekt med födelsedatan
+DateTime birthday = new DateTime(year, month, day);
+
+// Beräkna antal dagar som skiljer från födelsedagen till nu och dela med 365.25
+int age = (int)((today - birthday).TotalDays/365.25);
+
+Console.WriteLine($"{name} är {age} år gammal");
+```
+
+Tack vare variablerna kan du nu lätt ändra det till ditt namn och din födelsedata i deklarationsdelen, resten av programmet kan köra precis som den är.
