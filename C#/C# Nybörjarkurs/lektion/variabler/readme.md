@@ -18,3 +18,21 @@ I C# har vi olika typer av data vi kan stoppa in i våra variabler. Här är en 
 | char    | ett tecken                          | ‘A’, ‘C’,‘D’,‘C’            | Bara ett tecken, får aldrig vara tom |
 | string  | text, egentligen en lång rad tecken | “quoth the raven nevermore” | Vanlig text                          |
 |         |                                     |                             |                                      |
+
+När vi skapar en variabel för att använda i vårt program säger vi att vi instansierar variabeln, alltså att vi skapar en instans av variabeln. Detta gör vi genom att ange typen av variabel vi ska ha, i detta fall ett heltal (int) och sedan namnet på variabeln.
+
+```cs 
+// Instansierar variabler
+int xCoordinate;
+int yCoordinate;
+```
+
+När vi ger våra variabler ett värde kallas det att vi tilldelar den ett värde. Vi använder nu namnet till variabeln för att tilldela den ett värde.
+```cs 
+// Tilldelar värden till variabler
+xCoordinate = 10;
+yCoordinate = 15;
+```
+
+Som du ser, så behöver vi inte ange typen igen, för variabeln vet redan vad den ska ha för typ, då vi angav det vid instansieringen.
+
