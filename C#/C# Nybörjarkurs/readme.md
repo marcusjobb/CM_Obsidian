@@ -42,9 +42,9 @@ Utbildningen avslutas med ett behörighetsgivande prov online. Provet är själv
 + [Installera Visual Studio Community](Installation%20av%20Visual%20Studio.md)
 
 ## Planering
-| Lektion | Ämne | Övningar |
-| ------- | ----:| --------:|
-| 1       | [Intro till .net], [variabler]     | [variabel övningar]         |
+| Lektion | Ämne | Övningar | Repetition |
+| ------- | ----:| --------:| --------:|
+| 1       | [Intro till .net](lektion/intro/readme.md), [variabler](lektion/variabler/readme.md) | [variabel övningar](lektion/variabler/kodning/readme.md) | [Variabler repetition](lektion/variabler/repetition/readme.md)
 | 2       | []     | [-övningar] |
 | 3       | []     | [-övningar] |
 | 4       | []     | [-övningar] |
@@ -52,9 +52,3 @@ Utbildningen avslutas med ett behörighetsgivande prov online. Provet är själv
 | 6       | []     | [-övningar]|
 | 7       | []     | [-övningar]|
 | 8       | []     | [-övningar]|
-
-
-[Intro till .net]:             lektion/intro/readme.md
-[variabler]:                   lektion/variabler/readme.md
-[variabel övningar]:    lektion/variabler/kodning/readme.md
-		
