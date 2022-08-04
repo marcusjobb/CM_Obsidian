@@ -11,8 +11,8 @@
 *.sln.docstates
 
 # Obsidian stuff
-.obsidian/
-.trash/
+*.obsidian/
+*.trash/
 
 
 # User-specific files (MonoDevelop/Xamarin Studio)
