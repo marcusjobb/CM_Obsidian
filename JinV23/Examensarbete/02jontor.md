@@ -46,7 +46,7 @@ Du har gjort en fantastisk insats med att lära dig nya saker utan en specifik m
 
 ## Anteckningar från redovisningen
 
-# Jonas
+# 02jontor
 
 MazeFinder
 

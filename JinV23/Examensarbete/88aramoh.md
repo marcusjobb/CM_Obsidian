@@ -49,6 +49,6 @@ Flöde: Docker --> Gitlab --> Jenkins
 - Varför använde ni GitLabs? Fördelar? Nackdelar?
 - *Företaget använde redan GitLab, så det var enklast att använda det*
 
-# Frågor
+# 88aramoh
 
 Varför Jenkins och inte Gitlab CI/CD?

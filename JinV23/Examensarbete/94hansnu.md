@@ -58,7 +58,7 @@ Smart med en "playlist" för aktiviteter
 
 ## Anteckningar från redovisningen
 
-# Opposition [83krikar](83krikar.md)
+# 94hansnu
 
 - Varför c# och mvc
 + planerade först react, ville lära sig ny språk, funderar på att ta med react

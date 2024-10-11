@@ -48,7 +48,7 @@ Fascinerande ändå att ställa om hjärnan till C# tänkande efter Java
 Snygg produktlista och varukorg, enkel MVC
 
 
-# Opponering av [02jontor](02jontor.md)
+# 93mohabo
 
 - Varför C#?
 - Intresserad av C#

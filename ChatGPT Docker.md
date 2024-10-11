@@ -1,3 +1,0 @@
-# ChatGPT Docker
-	#  Install Docker
-	

@@ -46,7 +46,7 @@ Knapp för refresh kanske skulle vara bra
 Kanske inte bra på svenska, men passionen för programmering lyser igenom och gör
 det intressant att lyssna på.
 
-# Kristian opponerar
+# 86alesha
 
 - Vad fick dig att välja React+Vite?
 - **Svar**: Ville testa något nytt, React är populärt

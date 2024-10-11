@@ -33,7 +33,7 @@ Ditt arbete håller hög kvalitet och visar på en djup teknisk förståelse. Du
 ---
 
 ## Anteckningar från redovisningen
-# Kristoffer
+# 83krikar
  
 Cool presentation, bra med agenda
 Roligt att se hur spelidén utvecklades. 

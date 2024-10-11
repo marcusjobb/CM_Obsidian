@@ -1,4 +1,4 @@
-# Examensarbeten
+# Lite om examensarbeten
 
 JIN23 presenterade nyligen sina examensarbeten. Här är några som utmärkte sig.
 

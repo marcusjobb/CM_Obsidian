@@ -48,7 +48,7 @@ Väldigt grundlig planering, bra jobbat!
 
 Enkel sida men bra tanke bakom
 
-# Opponering av [88clabro](88clabro.md)
+# 02ahmalh
 
 - hur hanterar projektet autentisering?
 - **Svar**: Hann inte så långt
