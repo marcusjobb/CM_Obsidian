@@ -1,5 +1,8 @@
 # Natasha Shahran
 
+## Presentation
+
+
 Foodsaver - Applikation för att minska matsvinn
 Använda maten innan den går ut.
 Foodsaver är en webbapplikation som hjälper hushåll att minska matsvinn.
@@ -28,3 +31,7 @@ Funderade på egen API men ändrade sig.
 Är grafiken gjord med AI? Vilken motor. 
 
 Andre skulle opponera men dök inte upp. Natasha har kontaktat honom men han har inte hört av sig.
+
+## Opponering mot Sandra K
+
+Bra frågor som fick Sandra att fundera och tänka på det här som en del i sin egen utveckling, istället för att direkt opponera. Du fick fram intressanta tankar om framtida lösningar som Sandra kommer att göra
