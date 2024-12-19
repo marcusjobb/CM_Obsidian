@@ -13,7 +13,7 @@ Bra med att du visade hur du tänkt kring design och användarvänlighet. Det ä
 
 Trevlig och enkel GUI. Lätt att förstå och använda. Knappar med lagom avstånd så touch fungerar bra.
 
-
+Du svarade väldigt bra på frågor och visade att du tänkt på det mesta. Dina framtidsplaner är bra och lovande. Ser fram emot att se produkten lanseras.
 
 ## Opponering mot [Louise](./Louise.md)
 
