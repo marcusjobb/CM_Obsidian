@@ -1,6 +1,16 @@
 # Samuel
 
-## Presentation:
+## Presentation: Wellbot
+
+Wow! Grymt!
+
+Coolt att du tränat och förberett botten för att kunna svara på frågor. Alltid bra med en bra grund för den, så den inte bara blir en "standard" bot.
+
+Aaaw... en empatisk robot som mådde dåligt själv. Jag gillar det!
+
+Bra svar på feedbacken. Du har tänkt på det mesta.
+
+Hugginface transformers, coolt! 
 
 ## Opponering mot [Pontus](./Pontus.md)
 

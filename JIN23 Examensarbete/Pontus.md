@@ -12,4 +12,6 @@ Coolt spel!
 
 Du svarade bra på frågorna och visade dina kunskaper i C++ och planer om framtiden.
 
-## Opponering mot
+## Opponering mot [Samuel](./Samuel.md)
+
+Riktigt bra frågor. Just GDPR frågorna var intressanta, admin rollens grund.
