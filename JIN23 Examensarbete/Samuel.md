@@ -6,11 +6,14 @@ Wow! Grymt!
 
 Coolt att du tränat och förberett botten för att kunna svara på frågor. Alltid bra med en bra grund för den, så den inte bara blir en "standard" bot.
 
-Aaaw... en empatisk robot som mådde dåligt själv. Jag gillar det!
 
 Bra svar på feedbacken. Du har tänkt på det mesta.
 
 Hugginface transformers, coolt! 
+
+Vem som helst kan göra en "chatbot" genom ChatGPT eller Gemini, men det krävs en riktig utvecklare för att göra en riktig bot, välja modell, välja data, träna modellen, etc. Du gjorde det riktigt bra.
+
+Aaaw... en empatisk robot som mådde dåligt själv. Jag gillar det!
 
 ## Opponering mot [Pontus](./Pontus.md)
 

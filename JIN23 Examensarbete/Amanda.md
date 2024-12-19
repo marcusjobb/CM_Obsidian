@@ -2,7 +2,16 @@
 
 #
 
-## Presentation:
+## Presentation:n Struktivo
+
+Strukturera liv. Skapa balans mellan produktivitet och vila.
+Planera en lösning för digital och fysisk planering.
+
+Skapa struktur i vardagen. Bred målgrupp. Alla som vill ha struktur i vardagen. Även för personer med särskilda behov som neuriopsykiatriska funktionsnedsättningar eller demenssjukdomar.
+
+Bra med att du visade hur du tänkt kring design och användarvänlighet. Det är ett ämne som är viktigt för att underlätta för användare.
+
+
 
 ## Opponering mot [Louise](./Louise.md)
 
