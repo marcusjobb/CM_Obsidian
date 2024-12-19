@@ -4,7 +4,7 @@
 
 | Namn                      | Presentation | Opposition | Rapport | Betyg |
 | ------------------------- | :----------: | :--------: | :-----: | :---: |
-| [Amanda](./Amanda.md)     |              |            |         |       |
+| [Amanda](./Amanda.md)     |      G       |     G      |         |       |
 | [Andrea](./Andrea.md)     |              |            |         |       |
 | [Carolina](./Carolina.md) |              |     G      |         |       |
 | [Caroline](./Caroline.md) |      G       |            |         |       |

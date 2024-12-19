@@ -1,27 +1,30 @@
 # Isabella
 
-## Presentation:
+## Presentation
 
-C# och robot framework.
-Utvecklat av Microsoft under 2000.
-Används av större företag.
-Ramverk för testautomatisering. Är ett verktyg som används för att automatisera tester.
+Isabella presenterade sitt arbete med **C# och Robot Framework**, ett testautomatiseringsramverk som utvecklats av Microsoft under 2000-talet och används av större företag. Ramverket är ett verktyg för att automatisera tester, och Isabella lyfte fram fördelarna med "Minimal API design", där API:er skapas på ett enklare sätt och allt hanteras via `program.cs`.
 
-"Minimal API design" - enklare att skapa API:er. Allt körs via program.cs.
+**Styrkor i presentationen:**
 
-Bra att du visade hur din kod såg ut, och tester du skrivit som visade sig inte fungera och hur du löste det. Bra också att du berättade om hur rörig kod kan bli och hur du skrotade det och började om, det är viktiga steg i utvecklingen från studerande till yrkesverksam.
+- Det var bra att du visade din kod och de tester du skrivit, även de som inte fungerade, samt hur du löste problemen. Det visar på en förståelse för att utveckling är en iterativ process.
+- Du tog upp hur kod kan bli rörig och hur du tog beslutet att börja om. Detta är en viktig insikt för att växa från student till yrkesverksam utvecklare.
+- Lärdomarna du delade var mycket värdefulla:
+  - **Realistisk planering** – att inte försöka göra för mycket på en gång.
+  - **En sak i taget** – fokusera på en uppgift i taget.
+  - **Testa ofta** – kontinuerlig testning för att säkerställa att saker fungerar.
+  - **Om det inte fungerar, börja om** – undvik att "gräva gropen djupare". Dokumentera, ta ett steg tillbaka och andas.
 
-Bra lärdomar.
+Ditt demo med både lyckade och misslyckade tester gav en realistisk bild av utvecklingsarbetet, vilket var väldigt uppskattat.
 
-- Realistisk planering - inte för mycket på en gång
-- En sak i taget - inte för mycket på en gång
-- Testa ofta - inte för mycket på en gång
-- Inte gräva gropen djupare - om det inte fungerar, börja om, dokumenterade, andas i fyrkant.
+Dessutom var det bra att du var ärlig i dina svar och inte försökte gissa dig fram. Att säga "jag vet inte" när det behövs är en viktig egenskap som inger förtroende.
 
-Bra demo med både lyckade och misslyckade tester.
+---
 
-Bra att du informerar i dina svar om att du inte vet, det är bättre än att gissa.
+## Opponering mot Mathias
 
-## Opponering mot [Mathias](./Mathias.md)
+Du gjorde ett bra arbete under opponeringen. Några höjdpunkter:
 
-bra frågor, hoppade på direkt. Svårt att opponera då de var två så frågorna fick bli genomtänkta och det klarade du bra! Lite elak fråga men det var riktigt roligt. Du visade att du läst på
+- Dina frågor var genomtänkta och visade att du förberett dig väl.
+- Trots att det var svårt att opponera eftersom Mathias arbetade i ett team, lyckades du ändå formulera frågor som gav värdefulla insikter.
+- Din humor och lite spetsiga fråga var både underhållande och relevant, vilket lättade upp stämningen.
+- Det märktes att du hade läst på och engagerat dig i deras arbete.

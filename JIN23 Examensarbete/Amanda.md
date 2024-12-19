@@ -1,20 +1,20 @@
 # Amanda
 
-#
+## Presentation: Strukturio
 
-## Presentation:n Struktivo
+Strukturio handlar om att skapa balans mellan produktivitet och vila genom en lösning för både digital och fysisk planering. Syftet är att hjälpa användare att strukturera sin vardag, oavsett om de är en bred allmänhet eller personer med särskilda behov, som neuropsykiatriska funktionsnedsättningar eller demenssjukdomar.
 
-Strukturera liv. Skapa balans mellan produktivitet och vila.
-Planera en lösning för digital och fysisk planering.
+**Positiva punkter:**
 
-Skapa struktur i vardagen. Bred målgrupp. Alla som vill ha struktur i vardagen. Även för personer med särskilda behov som neuriopsykiatriska funktionsnedsättningar eller demenssjukdomar.
+- Din design och fokus på användarvänlighet är verkligen bra. Det är tydligt att du förstår vikten av att underlätta för användarna.
+- Gränssnittet (GUI) är både trevligt och enkelt, med en tydlig layout och funktionella knappar som fungerar väl även för touch-skärmar.
+- Du hanterade frågor mycket bra och visade att du har tänkt igenom både nuvarande lösningar och framtida planer. Det är inspirerande att se potentialen i din produkt, och jag ser fram emot att se den lanseras.
 
-Bra med att du visade hur du tänkt kring design och användarvänlighet. Det är ett ämne som är viktigt för att underlätta för användare.
+## Opponering mot Louise
 
-Trevlig och enkel GUI. Lätt att förstå och använda. Knappar med lagom avstånd så touch fungerar bra.
+Du gjorde ett utmärkt arbete under opponeringen. Här är några höjdpunkter:
 
-Du svarade väldigt bra på frågor och visade att du tänkt på det mesta. Dina framtidsplaner är bra och lovande. Ser fram emot att se produkten lanseras.
-
-## Opponering mot [Louise](./Louise.md)
-
-Bra frågor, bra och positiv feedback. Du var tydlig och rak i dina frågor. Du var tydlig med vad du tyckte var bra och vad som kunde förbättras. Du visade att du läst på Isabellas material. Bra fråga om synlighet i appen. Bra förslag med art lansera produkten.
+- Dina frågor var genomtänkta och fokuserade, vilket visade att du satt dig in i Isabellas material.
+- Du gav positiv feedback och var samtidigt tydlig och rak när du lyfte fram förbättringspunkter.
+- Din fråga om synlighet i appen var särskilt relevant och visade att du tänkt på praktiska användaraspekter.
+- Förslaget om att fundera på en lanseringsstrategi var ett bra initiativ och visade på ditt intresse för att se produkten utvecklas vidare.

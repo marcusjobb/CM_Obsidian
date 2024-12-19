@@ -1,13 +1,20 @@
 # Joakim
 
-## Presentation: Assitent för utvecklare, Spring Analyser
+## Presentation: Assistent för utvecklare – Spring Analyser
 
-Baserad av Spring Initializer.
-Wow. Du gick djupt ner in i kodträsket där!
-Hur grymt som helst. Grymt snygg sida.
+Joakim presenterade en imponerande utveckling baserad på **Spring Initializer** – en assistent för utvecklare som analyserar och guidar vid uppdateringar av projekt.
 
-Grymt coolt att kunna bli guidad vid uppdateringen, det gör att man vågar uppdatera, vilket i vanliga fall är en mardröm när man har större projekt.
+**Positiva punkter:**
 
-## Opponering mot [Hongzhi](./Hongzhi.md)
+- Det var verkligen imponerande hur djupt du gick in i detaljerna och kodens kärna. Du visade en stark teknisk förståelse och engagemang.
+- Den visuella presentationen var fantastisk – en riktigt snygg och genomarbetad design på sidan.
+- Idén att guida utvecklare genom uppdateringar är briljant. Det gör processen mindre skrämmande, särskilt för större projekt där uppdateringar annars kan kännas som en mardröm. Din lösning känns som en verklig hjälp i sådana situationer.
 
-Bra frågor, och bra vänlig feedback.
+---
+
+## Opponering mot Hongzhi
+
+Du gjorde ett bra jobb som opponent. Här är några styrkor:
+
+- Dina frågor var relevanta och välformulerade, vilket bidrog till en konstruktiv diskussion.
+- Du gav vänlig och positiv feedback, vilket uppskattas i ett sådant sammanhang.

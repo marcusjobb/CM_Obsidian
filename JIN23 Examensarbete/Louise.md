@@ -2,20 +2,24 @@
 
 ## Presentation: Tidsrapport
 
-För arbetande inom rehabilitering.
+Louise presenterade en **tidsrapporteringsapplikation** riktad mot arbetande inom rehabilitering. Applikationen är utvecklad i **Flutter** och har en tydlig användarstruktur med tre roller:
 
-Flutter
+- **Admin**
+- **Personal**
+- **Klient**
 
-Users:
+**Positiva punkter:**
 
-- Admin
-- Personal
-- Klient
+- Du har tydligt tänkt på framtida funktionalitet, vilket ger ett professionellt och långsiktigt intryck.
+- Design och användarvänlighet var väl genomtänkta. Det märks att du har förstått vikten av att underlätta arbetet för både personal och klienter, vilket är centralt i en sådan applikation.
 
-Bra med framtida planer för funktionalitet.
+---
 
-Bra med att du visade hur du tänkt kring design och användarvänlighet. Det är ett ämne som är viktigt för att underlätta för personal och klienter.
+## Opponering mot Amanda
 
-## Opponering mot [Amanda](./Amanda.md)
+Du gjorde ett bra arbete under opponeringen. Här är några styrkor:
 
-Bra fråga om tidigare kunskap. Bra att påpeka personer med särskilda behov. Allt som allt bra frågor och bra feedback. Du var tydlig i dina frågor. Du visade att du läst på om Amandas material.
+- Din fråga om tidigare kunskap var relevant och visade att du tänkt på målgruppens behov.
+- Det var bra att du lyfte fram vikten av att ta hänsyn till personer med särskilda behov, vilket visar på en inkluderande syn på design.
+- Dina frågor var tydliga och genomtänkta, och det märktes att du läst på om Amandas material.
+- Överlag gav du bra feedback som bidrog till en konstruktiv diskussion.
