@@ -23,7 +23,7 @@ Framtiden:
 - Skapa spellistor och optimera prestandan.
 - Förbättrade filtren för att rekommendera musik.
 
-
+Du svarade bra på frågorna och visade dina kunskaper i React, Node.js och MongoDB.
 
 
 ## Opponering mot
