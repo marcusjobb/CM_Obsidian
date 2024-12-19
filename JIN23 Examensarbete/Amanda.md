@@ -11,6 +11,8 @@ Skapa struktur i vardagen. Bred målgrupp. Alla som vill ha struktur i vardagen.
 
 Bra med att du visade hur du tänkt kring design och användarvänlighet. Det är ett ämne som är viktigt för att underlätta för användare.
 
+Trevlig och enkel GUI. Lätt att förstå och använda. Knappar med lagom avstånd så touch fungerar bra.
+
 
 
 ## Opponering mot [Louise](./Louise.md)
