@@ -1,8 +1,6 @@
-# Sandra Korpi
+# Sandra_K
 
-## Presentation
-
-Fribeloppsräknaren
+## Presentation : Fribeloppsräknaren
 
 Räknar ut hur mycket man kan jobba om man pluggar.
 Bytte från Azure till AWS
@@ -17,4 +15,6 @@ Intressanta framtida lösningar, koppla den till lönesystem det skulle underlä
 
 Svarade bra och med erfarenhet på frågorna på oppositionen. Det märks att du har växt av erfarenheten.
 
-## Opponering mot 
+## Opponering mot [Caroline](./Caroline.md)
+
+Väldigt positiv och trevlig feedback, samtidigt som du hade ganska djupa frågor om ämnet. Väldigt bra påläst i materialet.

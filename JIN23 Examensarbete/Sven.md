@@ -1,9 +1,8 @@
-# Sven Eriksson
+# Sven
 
-## Presentation
+## Presentation: Hockey statistik i Rust. 
 
-
-Hockey statistik i Rust. Språk som är funktionell och objektorienterad,  Biden regereringen vill att man ska ge upp C och använda Rust istället. 
+Språk som är funktionell och objektorienterad,  Biden regereringen vill att man ska ge upp C och använda Rust istället. 
 
 Cool tidslinje som förklarar hur du planerat och pluggat för att det ska fungera. 
 
