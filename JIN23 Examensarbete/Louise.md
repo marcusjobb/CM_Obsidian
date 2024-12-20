@@ -12,7 +12,7 @@ Louise presenterade en **tidsrapporteringsapplikation** riktad mot arbetande ino
 
 - Du har tydligt tänkt på framtida funktionalitet, vilket ger ett professionellt och långsiktigt intryck.
 - Design och användarvänlighet var väl genomtänkta. Det märks att du har förstått vikten av att underlätta arbetet för både personal och klienter, vilket är centralt i en sådan applikation.
-
+- Kodar med hjärtat. En tjänst som hjälper människor och som behövs.
 ---
 
 ## Opponering mot Amanda

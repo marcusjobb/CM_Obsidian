@@ -28,7 +28,7 @@ Började med enkel ram för framework, sen skrev backend enligt behov.
 Massor med kludd men redde ut det.
 Funderade på egen API men ändrade sig.
 
-Är grafiken gjord med AI? Vilken motor.
+Kodar med hjärtat. En tjänst som hjälper människor och som behövs.
 
 Andre skulle opponera men dök inte upp. Natasha har kontaktat honom men han har inte hört av sig.
 

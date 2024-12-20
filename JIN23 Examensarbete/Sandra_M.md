@@ -13,4 +13,6 @@ Du baserade projektet på sådant du behövde använda i ditt tidigare jobb. Bra
 
 Bra svar på frågorna, du visade att du hade koll på ditt material.
 
-## Opponering mot
+## Opponering mot [Carolina](./Carolina.md)
+
+Bra frågor, bra feedback. 
