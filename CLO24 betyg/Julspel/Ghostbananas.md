@@ -1,9 +1,13 @@
 # Ghostbananas
 
+'Megan'<92megsel@gafe.molndal.se>; 
+'Anton'<96antand01@gafe.molndal.se>; 
+'Maria'<77marsch@gafe.molndal.se>; 
+'Albin'<99albste@gafe.molndal.se>;
+
 Kul spel!
 
 Kollade igenom koden, mest testerna och hittade en del mystiska saker.
-
 
 **GhostBananasTestProjekt**
 - GameConsoleHelperTest.cs - Att använda en stringwriter för att hantera outputs… genialt! Kul check med hur långt tid testet tar.
