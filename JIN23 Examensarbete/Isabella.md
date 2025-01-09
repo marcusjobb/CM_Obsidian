@@ -1,8 +1,14 @@
 # Isabella
 
+#### Rapporter
+
+Bra rapporter som visar att du verkligen läst på och förstått ditt arbete. Du har en bra struktur och det är lätt att följa ditt tänk. Bra struktur och tydlig uppdelning i din rapport. Du gav dig på en tuff uppgift med att experimentera med C# och Robot Framework, och det är imponerande att du vågade ta dig an en sådan utmaning. Du visar att du har en god teknisk förståelse och att du kan tänka kreativt för att lösa problem. Din rapport är välskriven och tydlig, den riktar sig till en tekniskt kunnig målgrupp men borde ha varit menad för en bredare publik. Dock är det en bra rapport som visar att du har förstått ditt arbete, och Robot Framework kan man inte förstå utan att vara insatt i testning. Så för nybörjare som är insatta i testning är detta en bra rapport.
+
+Roligt att du gjorde en liten todo-lista för att testa Robot Framework.
+
 ## Presentation
 
-Isabella presenterade sitt arbete med **C# och Robot Framework**, ett testautomatiseringsramverk som utvecklats av Microsoft under 2000-talet och används av större företag. Ramverket är ett verktyg för att automatisera tester, och Isabella lyfte fram fördelarna med "Minimal API design", där API:er skapas på ett enklare sätt och allt hanteras via `program.cs`.
+Du presenterade ditt arbete med **C# och Robot Framework**, ett testautomatiseringsramverk som utvecklats av Microsoft under 2000-talet och används av större företag. Ramverket är ett verktyg för att automatisera tester, och du lyfte fram fördelarna med "Minimal API design", där API:er skapas på ett enklare sätt och allt hanteras via `program.cs`.
 
 **Styrkor i presentationen:**
 

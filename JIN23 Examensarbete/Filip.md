@@ -1,64 +1,42 @@
-# Filip
+### Filip – Feedback på Arbeten och Presentation
 
-## Presentation: Expensa
+#### Rapporter
 
-Budgetapp för att hålla koll på sina utgifter. Skapad tillsamans med Mathias. Brainstormade varandras idéer och skapade en gemensam vision.
-Förenkla och göra ekonomin enklare. Målgruppen är personer som vill ha koll på sin ekonomi.
+Bra jobbat med rapporterna! De är tydliga och informativa, och visar på en god förståelse för tekniken och projektet. Du har en bra struktur och en tydlig röd tråd genom hela rapporten. Snygg layout på din rapport, det gjorde det lätt att läsa. Du har också en bra balans mellan tekniska detaljer och enklare förklaringar, vilket gör att rapporten är lätt att förstå för alla läsare. Kodexemplerna kan bli lite för mycket för nybörjare som läser, men å andra sidan är det bra för att visa på din tekniska kompetens.
 
-Med OCR skannas kvitton och läggs in i appen. Då kan man jämföra med budgeten och se hur mycket som diffar. Man kan även se det i grafform.
+#### Presentation: Expensa
 
-Frontend: React och Typescript. Reacr navigation, react native animated, react native
-Backend: Node.js/Express.
-Databas: MSSQL på Azure.
-TypeOrm för att koppla ihop databasen med backend.
-Blob storage för att lagra bilder.
-JWT för att autentisera användare.
+Din presentation om budgetappen _Expensa_ var tydlig och välstrukturerad. Det var kul att höra om samarbetet med Mathias och hur ni brainstormade fram en gemensam vision för projektet. Appens mål att förenkla ekonomihantering är väldigt konkret och en tydlig riktning för målgruppen – personer som vill ha bättre koll på sin ekonomi.
 
-Funktioner
+De tekniska lösningarna imponerar. Du presenterade en solid stack:
 
-- dokumentuppladdning
-- Sökfunktion
-- Visualisering av data
-- Budgetöversikt
+- **Frontend**: React och TypeScript, med React Navigation, React Native Animated och React Native som centrala komponenter.
+- **Backend**: Node.js/Express kopplat till en **MSSQL-databas på Azure** via TypeORM. Blob storage för lagring av bilder och JWT för autentisering visar att ni tänkt på både funktionalitet och säkerhet.
 
-Backend:
+Funktionerna i appen är väl genomtänkta och användbara, särskilt:
 
-- OCR-tolkning
-- JWT-autentisering
-- Refreshtoken hantering
-- Databashantering
+- Dokumentuppladdning och OCR-tolkning.
+- Sökfunktion.
+- Visualisering av data via grafer.
+- Budgetöversikt.
 
-Tabeller i databasen:
+Tabellstrukturen i databasen visar att ni har en bra förståelse för datamodellering, med logiska tabeller som _User_, _Expense_ och _Receipt_items_. Vidareutvecklingsidéerna, som export till Excel/PDF och samarbetsläge, ger ett tydligt intryck av att ni har en långsiktig plan för appen.
 
-- User - användare
-- Project - projekt
-- Expense - utgifter
-- Category - kategorier
-- Receipt - kvitton
-- Invoice - fakturor
-- Receipt_items - Köpta varor på kvitton
+Du svarade på frågor med tydlig erfarenhet och förståelse för projektet och teknikerna. Särskilt frågan om Azure hanterade du väldigt bra. Det var också intressant att höra att React Native var det självklara valet framför exempelvis Flutter, och att ni vill lansera appen på marknaden. Bra att ni också stöttade varandra under projektets gång – det är tydligt att samarbetet varit en styrka.
 
-Vidareutveckling
+---
 
-- Export till Excel eller PDF
-- Samarbetsläge
-- Kategorisering av utgifter
-- Förbättrad analys av utgifter och budget, inklusive interaktiva grafer och insikter
+#### Opponering mot Sven
 
-Du svarade på frågorna med tydlig erfarenhet av projektet och teknikerna. Azure frågan svarade du jättebra på.
+Din opponering visade att du hade satt dig in i Svens arbete och ställde relevanta och insiktsfulla frågor. Här är några höjdpunkter:
 
-Flutter kom aldrig på fråga. React Native var det självklara valet. Najs att ni vill släppa ut den på marknaden. Stödsamtal med varandra, då det kändes omöjligt att göra det själv.
+- **Fråga om inlärningskurvan**: Du visade förståelse för svårigheterna med syntax och ägarskapsmodellen, och gav bra tips om att ta en dag i taget.
+- **Fråga om tidskrävande moment**: Du fångade upp den tid som lagts på data parsing och att bygga om till miljövariabler – en intressant diskussion som visade på tekniska utmaningar.
+- **Fråga om vidareutveckling**: Du ställde en bra fråga om GUI, även om svaret visade på ett tydligt fokus på terminalen.
+- **Fråga om statistik från andra sporter**: Bra fråga som ledde till insikt om begränsningar i parsningen och hur det skulle påverka vidareutveckling.
 
-## Opponering mot Sven
+---
 
-- Frågade om inlärningskurvan.
-  - Ägarskapsmodellen är annorlunda, ta en dag i taget och förstå en bit i taget.
-  - Syntaxen är inte alls som Java
-  - Det är hopplöst att lära sig i längden utan AI och Copilot.
-- Tidskrävande?
-  - Parsing av data tog tid, hitta mönster i datan.
-  - Började med en enkel version som sedan byggdes om till miljövariabler (globala variabler).
-- Om du haft mer tid, vad skulle förbättras eller läggas till?
-  - Inget gui, älskar terminalen.
-- Kan du hämta statistik från andra sporter?
-  - hela den jobbiga parsningen måste göras om, men annars ja
+### Sammanfattning
+
+Du har gjort ett genomtänkt och väl genomfört projekt som visar både teknisk kompetens och bra samarbetsförmåga. Din opponering visade också på ett intresse för att förstå andras arbete och ge meningsfull feedback. Bra jobbat!s

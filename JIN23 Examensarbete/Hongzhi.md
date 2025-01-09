@@ -1,20 +1,25 @@
-# Hongzhi
+### Hongzhi – Feedback på Arbeten och Presentation
 
-## Rapport:
+#### Rapport
 
-Din rapport förklarade bra hur du tänkt och arbetat. Däremot varr strukturen väldigt rörig och svår att läsa, tänk på att din struktur är viktig för att läsaren ska kunna hänga med. Om man inte kan hänga med i din rapport så kommer framtida användare att tappa intresset för ditt projekt.
+Din rapport gav en bra förklaring av hur du tänkt och arbetat, men strukturen gjorde det svårt att följa med. En tydligare struktur hade hjälpt läsaren att förstå ditt projekt bättre. Tänk på att en välorganiserad rapport inte bara är lättare att läsa, utan också gör att fler kan uppskatta och använda sig av ditt arbete framöver.
 
-## Presentation: Smrtmart
+---
 
-E-webbshop.
+#### Presentation: Smrtmart
 
-Frontend, database, backend.
-PostgreSQL
+Din presentation av _Smrtmart_, en e-webbshop, var imponerande. Du visade en tydlig förståelse för både frontend, backend och databaslösningar, med **PostgreSQL** som ett bra val för projektets databas.
 
-Vansinnigt snygg sida. Sött att det var till din fru.
+Designen på sidan var riktigt snygg, och det var charmigt att höra att du skapade den för din fru. Det märks att du har en stark grund i frontend och att du gick utanför din bekvämlighetszon för att lära dig nya saker och nå upp till kursens krav.
 
-Du har en bra grund i frontend men du gick ändå längre än vad som krävdes, för att du just skulle uppfylla kraven att lära dig nya saker.
+---
 
-## Opponering mot [Andrea](./Andrea.md)
+#### Opponering mot Andrea
 
-Dina frågor var enkla men bra. Hade gärna sett att du frågat mer om koden och implementationen.
+Dina frågor under opponeringen var enkla men träffsäkra. De visade att du engagerat dig i Andreas arbete. Däremot hade det varit intressant om du ställt fler frågor om koden och implementationen för att få en djupare diskussion.
+
+---
+
+### Sammanfattning
+
+Du har visat prov på teknisk kompetens och kreativitet, särskilt genom att ta dig an utmaningar utöver kursens grundkrav. För framtiden är det viktigt att arbeta på rapportstruktur och att fördjupa dina opponeringsfrågor, men annars riktigt bra jobbat!

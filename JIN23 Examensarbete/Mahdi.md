@@ -1,21 +1,26 @@
-# Mahdi
+# Mahdi – Feedback på Arbeten och Presentation
 
-## Rapport
+## Rapporter
 
-Dina rapporter var väldigt kortfattade och gav inte mycket djup in i ditt projekt. Dina beskrivningar kräver att man är insatt i Robot-verktyg för att kunna förstå vad du gjorde, och verktygspresentationen ska vara enkel. Jag förstår att det är svårt att skriva enkelt om en sak som du tydligen brinner för, men för att dina framtida kunder ska kunna förstå vad du gör måste du kunna förklara det på ett enkelt sätt.
+Dina rapporter var kortfattade och saknade förklaringar, vilket gjorde det svårt att fullt ut förstå projektet utan förkunskaper om Robot-verktyg. För att nå en bredare publik – inklusive framtida kunder – är det viktigt att kunna förklara komplexa tekniska lösningar på ett enkelt och lättbegripligt sätt. Jag förstår att du brinner för ämnet och har djup kunskap, men det är viktigt att anpassa språket för att göra det tillgängligt för alla. Ett tips är att lägga till fler praktiska exempel och förenkla verktygspresentationen.
 
 ## Presentation: Robot
 
-Intelligent telerobotic handlings system. ROS2 (Robot Operating System 2) är skriven i Python och C++.
+Din presentation om det intelligenta _telerobotic handlingssystemet_ var både imponerande och engagerande. Du visade hur **ROS2 (Robot Operating System 2)** används för att styra och simulera robotar med Python och C++. Kombinationen av teori och praktisk demo gjorde att det var lätt att följa med, även för den som inte är insatt i ämnet.
 
-Robot control och simulation. ROS är snabbaste vägen till att styra Robotar. Koden skrivs i Python och C++.
+**Styrkor:**
 
-Grym presentation och smart demo av den virtuella roboten. Wow riktigt grymt coolt, bra jobbat!
+- Din presentation var väl genomförd och din demo av den virtuella roboten var riktigt cool och inspirerande.
+- Du visade tydligt hur ROS2 är en effektiv lösning för robotstyrning.
+- Dina svar på frågor var raka och tydliga, och det märktes att du är mycket säker i ämnet.
 
-Du svarade bra på frågorna och var tydlig i dina svar. Ingen tvekan i dina svar. Dock är det inte bra att du kunde detta sen innan, då måste din rapport visa att du har lärt dig något nytt.
+**Utvecklingspotential:**  
+Det var tydligt att du redan hade goda kunskaper om ROS2 och robotstyrning innan projektet, vilket gör svårt att bedömma vad du lärt dig under projektets gång. Det hade varit bra om du nämnt det i din rapport, för att visa din inlärningsprocess.
 
-Men wow vilken grym presentation och demo, riktigt grymt!
+## Opponering mot Sandra M
 
-## Opponering mot [Sandra M](./Sandra_M.md)
+Du gjorde ett bra jobb som opponent. Dina frågor var tydliga och grundläggande, vilket gjorde det lätt att förstå vad du ville få fram. Du balanserade positiv feedback och förbättringsförslag på ett bra sätt, och det märktes att du hade satt dig in i Sandras material.
 
-Bra frågor, grundläggande frågor. Du var tydlig och rak i dina frågor. Du var tydlig med vad du tyckte var bra och vad som kunde förbättras.
+# Sammanfattning
+
+Du har gjort ett imponerande arbete med presentationen och demot, som verkligen visade på din tekniska kompetens. För framtiden är det viktigt att lägga mer fokus på att visa din inlärningsprocess i rapporten och att anpassa språket för att nå en bredare publik. Men överlag, riktigt grymt jobbat!

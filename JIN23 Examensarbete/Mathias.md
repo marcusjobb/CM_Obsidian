@@ -12,4 +12,6 @@ Budget, utgiftsspårning, uppladdningg av kvitton, realtidsuppdatering av budget
 
 Snygg app! Bra jobbat!
 
-## Opponering mot
+## Opponering
+
+Du fick ingen möjlig att opponera då presentationen inte blev av. Det är dock inget som du kan rå för, och inget som ska drabba dig. Du har gjort ett bra jobb med ditt projekt och det är det som räknas.
