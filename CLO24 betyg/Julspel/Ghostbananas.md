@@ -23,7 +23,7 @@ Kollade igenom koden, mest testerna och hittade en del mystiska saker.
 - MainMenuTest.cs lika snyggt som förra, bra lösning för att kontrollera inputs och därmed styra menyn från koden! Najs!!!
 - UnitTest1.cs - ännu en tom fil
 - MainMenuTest.UnitTest1.cs - tom fil
-- MariaTestClass.UnitTest1.cs - Filnamnet ska alltid vara likadan som klassens namn. Grymt att du har StringWriter för att fånga in outputs. OMG StringAsserts också,  nu blir jag lyrisk, jag glömmer alltid att använda dem, men det ska man göra! Bra gjort!
+- MariaTestClass.UnitTest1.cs - Filnamnet ska alltid vara likadan som klassens namn. Grymt att du har StringWriter för att fånga in outputs. OMG StringAsserts också, nu blir jag lyrisk, jag glömmer alltid att använda dem, men man ska använda rätt assert till rätt typ! Bra gjort!
 - **GameDisplayTest.cs** är tom men… Den har en kommentar att koden kommer senare. Helt OK att lämna det så!
 - Bonusmaterial hade en massa bortkommenterad kod, men ingen förklaring till varför. Antingen skriver man en kommentar om varför det är bortkommenterad eller så tar man bort den före inläming eller Pull-request.
 
