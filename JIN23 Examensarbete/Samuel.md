@@ -1,4 +1,4 @@
-# Samuel – Feedback på Arbeten och Presentation
+# Samuel
 
 ## Rapporter
 
