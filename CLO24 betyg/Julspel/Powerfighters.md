@@ -51,8 +51,9 @@
     Bidragit med många idéer och initialt designarbete, men det framgår att tidspressen gjorde att flera funktioner och klasser inte kunde realiseras fullt ut. Viktigt att fokusera på att avsluta arbetet mer strukturerat nästa gång. Även om du kanske planerade för stort låt det inte hindra din fantasi inför framtida projekt.  Just nu hade ni inte tid till det, men i framtida projekt kan det ändras. Då kommer du att skapa fantastiska saker. Planera stort, sikta mot stjärnorna så att om du failar åtminstone når trädtoppen, som man brukar säga.  
     
 - **Amir:**  
-    Har bidragit med tester för Player- och Item-klasserna, men deltagandet verkar ha varit sporadiskt. Det är viktigt att öka engagemanget och närvaron i framtida projekt. Förståeligt för att du haft mycket att komma ifatt med, i framtida projekt kommer saker och ting att flyta på mycket bättre ska du se.
-    
+    Har bidragit med tester för Player- och Item-klasserna, men deltagandet verkar ha varit sporadiskt. Det är viktigt att öka engagemanget och närvaron i framtida projekt. 
+
+En sak som är positivt när det gäller alla är att ni är väldigt ärliga om vad ni gjort och inte gjort, och vem som hjälpt och hur.
 
 ---
 
