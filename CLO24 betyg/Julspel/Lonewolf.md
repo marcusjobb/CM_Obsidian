@@ -1,7 +1,8 @@
+### **Fredriks Juläventyr – Kodgranskning**
 
 Hej Fredrik! 🎅
 
-Först och främst – vilket häftigt projekt du har skapat! Din insats är som en julklappsutdelning: organiserad, genomtänkt och fylld med glada överraskningar. Här är lite mer feedback som lyfter fram dina styrkor och några tips för framtida projekt:
+Vilket imponerande arbete du har gjort! Att arbeta själv på ett sådant här projekt är verkligen en prestation, och du har lyckats få till ett spel som är både engagerande och välstrukturerat. Din insats är som en julklappsutdelning: organiserad, genomtänkt och fylld med glada överraskningar. Här är lite feedback som lyfter fram dina styrkor och ger några tips för framtiden.
 
 ### **Kod och Tester – Detaljer**
 
@@ -29,10 +30,12 @@ Du kontrollerar verkligen alla aspekter av spelet i dina klasser. GameEngine, Co
 - **Detaljrikedom:** Du håller spelaren informerad om vad som händer i spelet – från vilka föremål som finns till vilka dörrar som är tillgängliga. Det känns som att bli guidad av en erfaren nisse genom tomteverkstaden. 🎁
 - **Kreativ användning av koder:** ANSI-färgkoderna lyfter verkligen spelets utseende och gör det mer engagerande. Det är en bonus som visar på kreativitet och känsla för detaljer. 🎨
 
+
 ### **Förslag till Förbättringar**
 
 - **Refaktorera längre metoder:** Några av dina metoder, särskilt i CommandHandler, kunde delas upp för att bli ännu mer läsbara. Tänk på dem som små paket som är lättare att slå in. 🎁
-- **Dokumentation:** Ett fåtal klasser saknar kommentarer som förklarar deras syfte. Att lägga till dem gör koden ännu mer självdokumenterande och lättare att förstå.
+- **Dokumentation:** Ett fåtal klasser saknar kommentarer som förklarar deras syfte. Att lägga till dem gör koden ännu mer själdokumenterande och lättare att förstå.
+
 
 Fredrik, ditt projekt är som en perfekt julklapp: det har allt! Du visar upp både teknisk skicklighet och en förmåga att skapa något engagerande och unikt. Det är verkligen ett nöje att spela och granska ditt arbete. Bra jobbat, och fortsätt skapa fantastiska projekt – tomten hejar på dig! 🎅✨
 
@@ -40,7 +43,6 @@ Du visade väldigt tydligt att du kan planera och genomföra ett helt projekt p�
 
 Det blir mer fokus på DevOps i framtida kurser med Lars Appel. Tror du kommer att trivas där.
 
-Ho ho ho! 🎄✨ 
+Ho ho ho! 🎄✨
 
-Hälsningar från 
-Evil Marcus
+Hälsningar från **Evil Marcus**
